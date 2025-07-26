@@ -2,12 +2,6 @@
 
 A basic graphical user interface (GUI) calculator application built using Python and its standard `tkinter` library. This project provides a user-friendly interface for performing simple arithmetic calculations.
 
-## Screenshot
-
-*(Here is where you would place a screenshot of your running application. You can replace `calculator_screenshot.png` with the actual name of your image file.)*
-
-![Calculator Screenshot](calculator_screenshot.png)
-
 ## Features
 
 -   Performs basic arithmetic operations: Addition (`+`), Subtraction (`-`), Multiplication (`*`), and Division (`/`).
