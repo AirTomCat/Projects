@@ -1,26 +1,44 @@
-# My Python Projects Collection 🐍
+# 🚀 My Python Projects Showcase
 
-Welcome! This repository serves as a portfolio of various Python projects I have built. Each folder contains a standalone project with its own source code and, in most cases, a detailed README file.
-
-Feel free to explore, clone, or fork any of the projects.
+Welcome! This repository is a curated collection of Python projects I've built to practice and showcase my skills. Dive in, explore the code, and see what I've been working on!
 
 ---
 
-## Projects Overview
+### ## Bitcoin Price Notifier 💰
+A script that runs in the background to track the price of Bitcoin and sends you a desktop notification when it crosses a target you set.
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Requests-222222?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Requests"/>
+    <img src="https://img.shields.io/badge/Plyer-222222?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Plyer"/>
+</p>
 
-Here is a summary of the projects included in this collection:
-
-| Project                                                   | Description                                                              | Key Technologies Used                   |
-| --------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------- |
-| [**Bitcoin Price Notifier**](./Bitcoin%20Price%20Notifier) | A script that sends a desktop alert when Bitcoin hits a target price.    | `Python`, `requests`, `plyer`           |
-| [**GUI Calculator**](./GUI%20Calculator)                  | A simple graphical calculator built with a user-friendly interface.      | `Python`, `Tkinter`                     |
-| [**Guessing Game**](./Guessing%20Game)                      | A classic number guessing game played in the terminal.                   | `Python`, `random`                      |
-| [**Rock, Paper, Scissors**](./Rock,%20Paper,%20Scissors)      | The classic game against a computer opponent with scorekeeping.          | `Python`, `random`                      |
+[**➡️ View Project**](./Bitcoin%20Price%20Notifier)
 
 ---
 
-## How to Explore
+### ## GUI Calculator 🧮
+A classic desktop calculator with a full graphical user interface, built using Python's native GUI toolkit.
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Tkinter-222222?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
+</p>
 
-To view a specific project, simply click on its name in the table above or navigate into its respective folder. Each project is self-contained.
+[**➡️ View Project**](./GUI%20Calculator)
 
+---
+
+
+### ## Classic Games 🎮
+A collection of classic games to play directly in your terminal.
+
+| Game                                                | Description                                    |
+| --------------------------------------------------- | ---------------------------------------------- |
+| [**Rock, Paper, Scissors**](./Rock,%20Paper,%20Scissors) | Play the classic hand game against the computer. |
+| [**Guessing Game**](./Guessing%20Game)              | Guess a secret number chosen by the computer.  |
+
+<br>
+
+---
+
+### ## 📫 Connect With Me
 For more about me, check out my main GitHub profile: **[AirTomCat](https://github.com/AirTomCat)**.
